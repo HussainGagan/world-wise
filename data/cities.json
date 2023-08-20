@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "country": "Spain",
+      "cityName": "Zaragoza",
+      "emoji": "🇪🇸",
+      "date": "2023-06-28T10:44:24.548Z",
+      "notes": "",
+      "position": {
+        "lat": "41.65758924739414",
+        "lng": "-1.124263939523107"
+      },
+      "id": 73930387
+    },
+    {
+      "country": "Spain",
+      "cityName": "Luna",
+      "emoji": "🇪🇸",
+      "date": "2023-06-28T10:46:23.800Z",
+      "notes": "",
+      "position": {
+        "lat": "42.230496014311626",
+        "lng": "-0.9705221994211646"
+      },
+      "id": 73930390
+    },
+    {
+      "country": "France",
+      "cityName": "Bassac",
+      "emoji": "🇫🇷",
+      "date": "2023-06-28T10:55:26.584Z",
+      "notes": "",
+      "position": {
+        "lat": "45.676721316874634",
+        "lng": "-0.11181698399758133"
+      },
+      "id": 73930393
+    },
+    {
+      "country": "Spain",
+      "cityName": "Vilardevos",
+      "emoji": "🇪🇸",
+      "date": "2023-06-28T13:09:16.089Z",
+      "notes": "",
+      "position": {
+        "lat": "41.93590567693183",
+        "lng": "-7.268818670623885"
+      },
+      "id": 73930394
+    }
+  ]
+}
